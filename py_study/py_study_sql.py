@@ -2,6 +2,8 @@
 import mysql
 
 import mysql.connector
+import pickle
+import _compat_pickle
 
 config = {
   'user': 'feb',
